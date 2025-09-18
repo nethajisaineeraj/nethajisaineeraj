@@ -57,7 +57,7 @@ To keep exploring how **AI-powered features** can enhance full-stack apps and cr
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" alt="Bootstrap" width="50" height="50"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
 &nbsp;&nbsp;&nbsp;
@@ -65,7 +65,7 @@ To keep exploring how **AI-powered features** can enhance full-stack apps and cr
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7S33Oq2FeRbyBBA6l1q8PwLVa3SzaONO-9Q&s" alt="Express.js" width="50" height="50"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
 &nbsp;&nbsp;&nbsp;
