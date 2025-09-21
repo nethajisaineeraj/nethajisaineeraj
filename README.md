@@ -34,7 +34,7 @@ To keep exploring how **AI-powered features** can enhance full-stack apps and cr
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:saineerajmahanthi@gmail.com" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" />
 </a>
 </p>
 
@@ -88,6 +88,8 @@ To keep exploring how **AI-powered features** can enhance full-stack apps and cr
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/></a>
 &nbsp;&nbsp;&nbsp;
 </p>
 
