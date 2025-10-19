@@ -2,7 +2,12 @@
   <img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?resize=1170%2C390&ssl=1" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I’m <span style="font-size:40px;">Sai Neeraj Mahanthi</span></h1>
+<h1 align="center">👋 Hi, I’m <span style="font-size:40px;">Sai Neeraj Mahanthi</span>
+&nbsp;|&nbsp;
+  <a href="https://saineerajportfolio.netlify.app" target="_blank" style="font-size:22px; text-decoration:none; color:#0078ff;">
+    <img src="https://github.com/nethajisaineeraj/Portfolio/blob/main/public/logo.png" alt="Portfolio" height="25" width="25" /> Stack Beast (Portfolio)
+  </a>
+</h1>
 
 <h3 align="center">💻 Full-Stack Developer | AI-Enhanced Applications | Problem Solver</h3>  
 
